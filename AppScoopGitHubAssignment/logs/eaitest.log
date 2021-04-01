@@ -1112,3 +1112,16 @@
 2021-49-01 09:49:48.948 [main] INFO  com.github.qa.pages.PasswordResetPage - Initializing landing Page Objects
 2021-50-01 09:50:02.149 [main] INFO  com.github.qa.base.BasePage - Initialized Base Page Class
 2021-50-01 09:50:02.150 [main] INFO  com.github.qa.pages.JoinGitHubPage - Initializing join github Page Objects
+2021-49-01 14:49:33.516 [main] INFO  com.github.qa.uitests.BaseTest - Getting WebDriver Settings
+2021-49-01 14:49:33.833 [main] INFO  com.github.qa.uitests.BaseTest - Found Chrome as Browser
+2021-49-01 14:49:34.036 [main] INFO  com.github.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2021-49-01 14:49:34.037 [main] INFO  com.github.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2021-49-01 14:49:38.804 [main] INFO  com.github.qa.pages.PageCollection - Initialized Page Collection Class
+2021-49-01 14:49:39.089 [main] INFO  com.github.qa.base.BasePage - Initialized Base Page Class
+2021-49-01 14:49:39.094 [main] INFO  com.github.qa.pages.LandingPage - Initializing landing Page Objects
+2021-49-01 14:49:52.516 [main] INFO  com.github.qa.base.BasePage - Initialized Base Page Class
+2021-49-01 14:49:52.517 [main] INFO  com.github.qa.pages.LoginPage - Initializing landing Page Objects
+2021-50-01 14:50:06.712 [main] INFO  com.github.qa.base.BasePage - Initialized Base Page Class
+2021-50-01 14:50:06.713 [main] INFO  com.github.qa.pages.PasswordResetPage - Initializing landing Page Objects
+2021-50-01 14:50:26.526 [main] INFO  com.github.qa.base.BasePage - Initialized Base Page Class
+2021-50-01 14:50:26.527 [main] INFO  com.github.qa.pages.JoinGitHubPage - Initializing join github Page Objects
