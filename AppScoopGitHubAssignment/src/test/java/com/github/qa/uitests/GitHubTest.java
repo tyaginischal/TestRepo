@@ -24,9 +24,10 @@ public class GitHubTest extends BaseTest {
 	 * Verify Sign up button on landing page and click on it
 	 * Verify Join GitHub page and text after click on the sign up button
 	 * Verify Create Your Account text on the join GitHub page
-	 * "Verify Email field on join GitHub page and check to enter existing email
+	 * Verify Email field on join GitHub page and check to enter existing email
 	 * Verify create account button is disabled if user enter an existing email or if not solve the puzzle
 	 */
+	
 	@Test(description = "To verify Open the GitHub application and start verifcaton for Sign in, Sign up and Password reset page")
 	public void VerifySignIn_ResetPassword_SignupTestForGitHUbApp() throws Exception {
 
