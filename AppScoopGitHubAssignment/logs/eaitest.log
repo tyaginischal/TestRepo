@@ -1,0 +1,1114 @@
+2020-00-03 16:00:39.730 [main] INFO  com.mtp.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-00-03 16:00:39.984 [main] INFO  com.mtp.qa.uitests.BaseTest - Found Chrome as Browser
+2020-00-03 16:00:40.583 [main] INFO  com.mtp.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-00-03 16:00:40.584 [main] INFO  com.mtp.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-00-03 16:00:50.793 [main] INFO  com.mtp.qa.pages.PageCollection - Initialized Page Collection Class
+2020-00-03 16:00:50.811 [main] INFO  com.mtp.qa.base.BasePage - Initialized Base Page Class
+2020-00-03 16:00:50.826 [main] INFO  com.mtp.qa.pages.LoginPage - Initializing login Page Objects
+2020-00-03 16:00:57.196 [main] INFO  com.mtp.qa.pages.LoginPage - Login Successfull
+2020-00-03 16:00:57.197 [main] INFO  com.mtp.qa.base.BasePage - Initialized Base Page Class
+2020-00-03 16:00:57.198 [main] INFO  com.mtp.qa.pages.LoginPage - Initializing login Page Objects
+2020-00-03 16:00:59.192 [main] INFO  com.mtp.qa.base.BasePage - Initialized Base Page Class
+2020-00-03 16:00:59.192 [main] INFO  com.mtp.qa.pages.LoginPage - Initializing login Page Objects
+2020-01-03 16:01:00.689 [main] INFO  com.mtp.qa.base.BasePage - Initialized Base Page Class
+2020-01-03 16:01:00.690 [main] INFO  com.mtp.qa.pages.LoginPage - Initializing login Page Objects
+2020-01-03 16:01:02.121 [main] INFO  com.mtp.qa.base.BasePage - Initialized Base Page Class
+2020-01-03 16:01:02.123 [main] INFO  com.mtp.qa.pages.LoginPage - Initializing login Page Objects
+2020-09-05 16:09:26.058 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-09-05 16:09:26.749 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-09-05 16:09:33.147 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-09-05 16:09:33.147 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-09-05 16:09:55.198 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-09-05 16:09:55.230 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-09-05 16:09:55.360 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-11-05 16:11:52.256 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-11-05 16:11:52.511 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-11-05 16:11:53.276 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-11-05 16:11:53.278 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-12-05 16:12:04.714 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-12-05 16:12:04.793 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-12-05 16:12:04.808 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-23-05 16:23:45.760 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-23-05 16:23:46.007 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-23-05 16:23:46.690 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-23-05 16:23:46.690 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-23-05 16:23:56.922 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-23-05 16:23:56.967 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-23-05 16:23:56.983 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-24-05 16:24:05.690 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-24-05 16:24:05.728 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-24-05 16:24:05.728 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-12-05 17:12:30.050 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-12-05 17:12:30.301 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-12-05 17:12:33.549 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-12-05 17:12:33.583 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-12-05 17:12:46.467 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-12-05 17:12:48.339 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-12-05 17:12:48.413 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-12-05 17:12:57.887 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-12-05 17:12:57.889 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-12-05 17:12:57.889 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-15-05 17:15:50.553 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-15-05 17:15:50.824 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-15-05 17:15:51.523 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-15-05 17:15:51.523 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-16-05 17:16:02.265 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-16-05 17:16:02.428 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-16-05 17:16:02.441 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-16-05 17:16:15.346 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-16-05 17:16:15.348 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-16-05 17:16:15.349 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-17-05 17:17:37.782 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-17-05 17:17:38.026 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-17-05 17:17:38.629 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-17-05 17:17:38.629 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-17-05 17:17:49.015 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-17-05 17:17:49.848 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-17-05 17:17:49.897 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-17-05 17:17:57.583 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-17-05 17:17:57.585 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-17-05 17:17:57.586 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-20-05 17:20:08.034 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-20-05 17:20:08.289 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-20-05 17:20:08.907 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-20-05 17:20:08.907 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-20-05 17:20:20.115 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-20-05 17:20:20.260 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-20-05 17:20:20.275 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-20-05 17:20:26.465 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-20-05 17:20:26.466 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-20-05 17:20:26.467 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-21-05 17:21:55.585 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-21-05 17:21:55.852 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-21-05 17:21:56.503 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-21-05 17:21:56.503 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-22-05 17:22:06.515 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-22-05 17:22:06.687 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-22-05 17:22:06.704 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-26-05 17:26:01.043 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-26-05 17:26:01.324 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-26-05 17:26:01.963 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-26-05 17:26:01.964 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-26-05 17:26:11.943 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-26-05 17:26:12.098 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-26-05 17:26:12.111 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-26-05 17:26:19.546 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-26-05 17:26:19.548 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-26-05 17:26:19.548 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-26-05 17:26:55.434 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-26-05 17:26:55.707 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-26-05 17:26:56.310 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-26-05 17:26:56.310 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-27-05 17:27:06.833 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-27-05 17:27:07.020 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-27-05 17:27:07.038 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-27-05 17:27:13.473 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-27-05 17:27:13.474 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-27-05 17:27:13.475 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-43-05 17:43:03.438 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-43-05 17:43:03.700 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-43-05 17:43:04.298 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-43-05 17:43:04.298 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-43-05 17:43:14.412 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-43-05 17:43:14.574 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-43-05 17:43:14.591 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-43-05 17:43:23.745 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-43-05 17:43:23.747 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-43-05 17:43:23.748 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-46-05 17:46:49.354 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-46-05 17:46:49.603 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-46-05 17:46:50.206 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-46-05 17:46:50.207 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-47-05 17:47:00.281 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-47-05 17:47:00.424 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-47-05 17:47:00.438 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-47-05 17:47:07.803 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-47-05 17:47:07.804 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-47-05 17:47:07.804 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-50-05 17:50:38.754 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-50-05 17:50:39.015 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-50-05 17:50:39.615 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-50-05 17:50:39.616 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-50-05 17:50:49.819 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-50-05 17:50:49.960 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-50-05 17:50:49.976 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-50-05 17:50:57.368 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-50-05 17:50:57.370 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-50-05 17:50:57.370 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-52-05 17:52:28.233 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-52-05 17:52:28.477 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-52-05 17:52:29.092 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-52-05 17:52:29.093 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-52-05 17:52:39.324 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-52-05 17:52:39.472 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-52-05 17:52:39.490 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-52-05 17:52:45.694 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-52-05 17:52:45.696 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-52-05 17:52:45.697 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-05-05 18:05:17.290 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-05-05 18:05:17.545 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-05-05 18:05:18.158 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-05-05 18:05:18.159 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-05-05 18:05:28.353 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-05-05 18:05:28.503 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-05-05 18:05:28.518 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-05-05 18:05:33.704 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-05-05 18:05:33.705 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-05-05 18:05:33.706 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-05-05 18:05:37.156 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-05-05 18:05:37.164 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-05-05 18:05:37.165 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-05-05 18:05:46.637 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-05-05 18:05:46.652 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-05-05 18:05:46.652 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-05-05 18:05:53.124 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-05-05 18:05:53.124 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-05-05 18:05:53.125 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-05-05 18:05:56.765 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-05-05 18:05:56.782 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-05-05 18:05:56.782 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-06-05 18:06:06.634 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-06-05 18:06:06.648 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-06-05 18:06:06.649 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-06-05 18:06:13.391 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-06-05 18:06:13.391 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-06-05 18:06:13.391 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-25-05 18:25:06.304 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-25-05 18:25:06.564 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-25-05 18:25:09.533 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-25-05 18:25:09.533 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-25-05 18:25:19.708 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-25-05 18:25:19.854 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-25-05 18:25:19.868 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-25-05 18:25:27.764 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-25-05 18:25:27.766 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-25-05 18:25:27.766 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-25-05 18:25:31.379 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-25-05 18:25:31.387 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-25-05 18:25:31.387 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-25-05 18:25:41.077 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-25-05 18:25:41.111 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-25-05 18:25:41.111 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-25-05 18:25:47.389 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-25-05 18:25:47.389 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-25-05 18:25:47.389 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-25-05 18:25:50.763 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-25-05 18:25:50.781 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-25-05 18:25:50.781 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-26-05 18:26:00.533 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-26-05 18:26:00.554 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-26-05 18:26:00.554 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-26-05 18:26:06.180 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-26-05 18:26:06.180 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-26-05 18:26:06.180 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-29-05 18:29:15.981 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-29-05 18:29:16.242 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-29-05 18:29:16.876 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-29-05 18:29:16.876 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-29-05 18:29:26.917 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-29-05 18:29:27.071 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-29-05 18:29:27.090 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-29-05 18:29:33.500 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-29-05 18:29:33.502 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-29-05 18:29:33.502 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-29-05 18:29:36.997 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-29-05 18:29:37.007 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-29-05 18:29:37.007 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-29-05 18:29:46.454 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-29-05 18:29:46.486 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-29-05 18:29:46.487 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-29-05 18:29:52.745 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-29-05 18:29:52.745 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-29-05 18:29:52.746 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-29-05 18:29:56.462 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-29-05 18:29:56.479 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-29-05 18:29:56.479 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-30-05 18:30:06.125 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-30-05 18:30:06.145 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-30-05 18:30:06.146 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-30-05 18:30:11.408 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-30-05 18:30:11.409 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-30-05 18:30:11.409 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-28-11 16:28:49.570 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-28-11 16:28:50.461 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-28-11 16:28:56.453 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-28-11 16:28:56.453 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-29-11 16:29:28.472 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-29-11 16:29:30.579 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-29-11 16:29:30.841 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-29-11 16:29:43.683 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-29-11 16:29:44.214 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-29-11 16:29:44.215 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-02-11 17:02:02.231 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-02-11 17:02:02.494 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-02-11 17:02:03.288 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-02-11 17:02:03.289 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-02-11 17:02:14.846 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-02-11 17:02:15.740 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-02-11 17:02:15.900 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-02-11 17:02:22.282 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-02-11 17:02:22.284 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-02-11 17:02:22.284 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-06-11 17:06:33.775 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-06-11 17:06:34.026 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-06-11 17:06:34.635 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-06-11 17:06:34.636 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-06-11 17:06:45.616 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-06-11 17:06:45.767 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-06-11 17:06:45.783 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-06-11 17:06:51.626 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-06-11 17:06:51.629 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-06-11 17:06:51.630 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-43-11 17:43:07.807 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-43-11 17:43:08.064 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-43-11 17:43:11.941 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-43-11 17:43:11.941 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-43-11 17:43:23.528 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-43-11 17:43:23.670 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-43-11 17:43:23.684 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-43-11 17:43:38.930 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-43-11 17:43:38.932 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-43-11 17:43:38.933 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-43-11 17:43:47.821 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-43-11 17:43:47.821 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-46-11 17:46:38.228 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-46-11 17:46:38.479 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-46-11 17:46:39.306 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-46-11 17:46:39.307 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-46-11 17:46:51.773 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-46-11 17:46:51.923 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-46-11 17:46:51.939 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-46-11 17:46:58.636 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-46-11 17:46:58.638 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-46-11 17:46:58.638 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-47-11 17:47:04.871 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-47-11 17:47:04.871 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-30-11 18:30:04.428 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-30-11 18:30:04.690 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-30-11 18:30:05.315 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-30-11 18:30:05.315 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-30-11 18:30:15.960 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-30-11 18:30:16.107 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-30-11 18:30:16.126 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-30-11 18:30:22.556 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-30-11 18:30:22.558 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-30-11 18:30:22.559 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-30-11 18:30:27.763 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-30-11 18:30:27.764 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-31-11 18:31:46.609 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-31-11 18:31:46.863 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-31-11 18:31:47.458 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-31-11 18:31:47.459 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-31-11 18:31:57.835 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-31-11 18:31:57.977 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-31-11 18:31:57.991 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-32-11 18:32:03.120 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-32-11 18:32:03.121 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-32-11 18:32:03.122 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-32-11 18:32:07.618 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-32-11 18:32:07.618 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-32-11 18:32:46.060 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-32-11 18:32:46.323 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-32-11 18:32:46.924 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-32-11 18:32:46.924 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-32-11 18:32:57.613 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-32-11 18:32:57.759 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-32-11 18:32:57.779 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-33-11 18:33:05.907 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-33-11 18:33:05.909 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-33-11 18:33:05.909 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-33-11 18:33:10.760 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-33-11 18:33:10.761 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-40-11 18:40:43.565 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-40-11 18:40:43.816 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-40-11 18:40:44.421 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-40-11 18:40:44.422 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-40-11 18:40:54.811 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-40-11 18:40:54.981 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-40-11 18:40:54.997 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-41-11 18:41:00.465 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-41-11 18:41:00.466 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-41-11 18:41:00.467 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-41-11 18:41:04.957 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-41-11 18:41:04.958 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-43-11 18:43:21.075 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-43-11 18:43:21.315 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-43-11 18:43:24.365 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-43-11 18:43:24.365 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-43-11 18:43:35.106 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-43-11 18:43:35.262 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-43-11 18:43:35.280 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-43-11 18:43:39.921 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-43-11 18:43:39.923 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-43-11 18:43:39.923 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-43-11 18:43:45.056 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-43-11 18:43:45.057 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-10-11 19:10:53.462 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-10-11 19:10:53.738 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-10-11 19:10:54.351 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-10-11 19:10:54.352 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-11-11 19:11:04.820 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-11-11 19:11:04.972 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-11-11 19:11:04.998 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-11-11 19:11:13.026 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-11-11 19:11:13.028 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-11-11 19:11:13.028 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-11-11 19:11:18.723 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-11-11 19:11:18.724 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-12-11 19:12:07.319 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-12-11 19:12:07.565 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-12-11 19:12:08.158 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-12-11 19:12:08.158 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-12-11 19:12:19.356 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-12-11 19:12:19.516 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-12-11 19:12:19.534 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-12-11 19:12:25.971 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-12-11 19:12:25.973 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-12-11 19:12:25.974 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-12-11 19:12:46.943 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-12-11 19:12:47.193 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-12-11 19:12:47.781 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-12-11 19:12:47.782 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-12-11 19:12:59.633 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-12-11 19:12:59.775 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-12-11 19:12:59.788 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-13-11 19:13:09.823 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-13-11 19:13:09.825 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-13-11 19:13:09.826 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-13-11 19:13:16.433 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-13-11 19:13:16.434 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-15-11 19:15:22.487 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-15-11 19:15:22.793 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-15-11 19:15:23.391 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-15-11 19:15:23.392 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-15-11 19:15:36.081 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-15-11 19:15:37.808 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-15-11 19:15:37.920 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-15-11 19:15:44.664 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-15-11 19:15:44.679 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-15-11 19:15:44.679 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-15-11 19:15:49.824 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-15-11 19:15:49.825 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-17-11 19:17:36.545 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-17-11 19:17:36.799 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-17-11 19:17:37.394 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-17-11 19:17:37.394 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-17-11 19:17:47.936 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-17-11 19:17:48.083 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-17-11 19:17:48.104 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-17-11 19:17:53.250 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-17-11 19:17:53.252 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-17-11 19:17:53.252 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-17-11 19:17:57.671 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-17-11 19:17:57.673 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-20-11 19:20:13.437 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-20-11 19:20:13.686 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-20-11 19:20:14.295 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-20-11 19:20:14.295 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-20-11 19:20:25.137 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-20-11 19:20:25.676 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-20-11 19:20:25.702 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-20-11 19:20:31.716 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-20-11 19:20:31.718 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-20-11 19:20:31.719 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-20-11 19:20:36.950 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-20-11 19:20:36.950 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-21-11 19:21:45.917 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-21-11 19:21:46.173 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-21-11 19:21:46.806 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-21-11 19:21:46.806 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-21-11 19:21:58.396 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-21-11 19:21:58.945 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-21-11 19:21:58.985 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-22-11 19:22:09.632 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-22-11 19:22:09.633 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-22-11 19:22:09.634 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-22-11 19:22:16.997 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-22-11 19:22:16.998 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-24-11 19:24:04.177 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-24-11 19:24:04.415 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-24-11 19:24:05.022 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-24-11 19:24:05.022 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-24-11 19:24:16.440 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-24-11 19:24:16.858 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-24-11 19:24:16.899 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-24-11 19:24:21.777 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-24-11 19:24:21.779 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-24-11 19:24:21.779 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-24-11 19:24:25.685 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-24-11 19:24:25.686 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-26-11 19:26:07.849 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-26-11 19:26:08.106 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-26-11 19:26:08.695 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-26-11 19:26:08.696 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-26-11 19:26:19.280 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-26-11 19:26:19.426 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-26-11 19:26:19.444 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-26-11 19:26:25.008 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-26-11 19:26:25.010 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-26-11 19:26:25.011 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-26-11 19:26:30.024 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-26-11 19:26:30.024 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-26-11 19:26:55.981 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-26-11 19:26:56.240 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-26-11 19:26:56.844 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-26-11 19:26:56.845 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-27-11 19:27:07.283 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-27-11 19:27:07.454 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-27-11 19:27:07.468 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-27-11 19:27:12.565 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-27-11 19:27:12.566 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-27-11 19:27:12.567 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-27-11 19:27:16.482 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-27-11 19:27:16.483 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-27-11 19:27:49.365 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-27-11 19:27:49.615 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-27-11 19:27:50.241 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-27-11 19:27:50.241 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-28-11 19:28:00.267 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-28-11 19:28:00.523 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-28-11 19:28:00.539 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-28-11 19:28:06.602 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-28-11 19:28:06.603 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-28-11 19:28:06.604 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-28-11 19:28:11.517 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-28-11 19:28:11.519 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-58-12 13:58:25.676 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-58-12 13:58:26.304 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-58-12 13:58:30.951 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-58-12 13:58:30.952 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-58-12 13:58:46.641 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-58-12 13:58:51.294 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-58-12 13:58:51.426 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-58-12 13:58:57.568 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-58-12 13:58:57.571 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-58-12 13:58:57.572 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-59-12 13:59:02.537 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-59-12 13:59:02.538 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-00-12 14:00:34.579 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-00-12 14:00:34.825 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-00-12 14:00:35.509 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-00-12 14:00:35.510 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-00-12 14:00:45.937 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-00-12 14:00:46.106 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-00-12 14:00:46.124 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-00-12 14:00:51.955 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-00-12 14:00:51.957 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-00-12 14:00:51.958 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-00-12 14:00:56.401 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-00-12 14:00:56.402 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-08-12 14:08:49.508 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-08-12 14:08:49.753 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-08-12 14:08:50.347 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-08-12 14:08:50.348 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-09-12 14:09:00.300 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-09-12 14:09:00.444 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-09-12 14:09:00.461 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-09-12 14:09:05.731 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-09-12 14:09:05.733 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-09-12 14:09:05.734 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-09-12 14:09:11.019 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-09-12 14:09:11.020 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-10-12 14:10:37.995 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-10-12 14:10:38.237 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-10-12 14:10:38.822 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-10-12 14:10:38.822 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-10-12 14:10:48.960 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-10-12 14:10:49.099 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-10-12 14:10:49.115 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-10-12 14:10:53.627 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-10-12 14:10:53.629 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-10-12 14:10:53.629 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-10-12 14:10:58.033 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-10-12 14:10:58.035 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-13-12 14:13:24.576 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-13-12 14:13:24.818 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-13-12 14:13:25.411 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-13-12 14:13:25.412 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-13-12 14:13:35.304 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-13-12 14:13:35.434 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-13-12 14:13:35.450 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-13-12 14:13:40.045 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-13-12 14:13:40.046 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-13-12 14:13:40.047 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-13-12 14:13:45.052 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-13-12 14:13:45.053 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-19-12 14:19:54.782 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-19-12 14:19:55.030 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-19-12 14:19:55.632 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-19-12 14:19:55.632 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-20-12 14:20:05.664 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-20-12 14:20:05.859 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-20-12 14:20:05.874 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-20-12 14:20:12.927 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-20-12 14:20:12.929 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-20-12 14:20:12.930 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-20-12 14:20:19.036 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-20-12 14:20:19.037 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-22-12 14:22:01.717 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-22-12 14:22:01.965 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-22-12 14:22:02.547 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-22-12 14:22:02.548 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-22-12 14:22:13.028 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-22-12 14:22:13.153 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-22-12 14:22:13.167 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-22-12 14:22:17.960 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-22-12 14:22:17.963 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-22-12 14:22:17.963 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-22-12 14:22:22.951 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-22-12 14:22:22.953 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-38-12 14:38:51.138 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-38-12 14:38:51.379 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-38-12 14:38:51.965 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-38-12 14:38:51.966 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-39-12 14:39:01.874 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-39-12 14:39:02.010 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-39-12 14:39:02.023 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-39-12 14:39:09.926 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-39-12 14:39:09.929 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-39-12 14:39:09.929 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-39-12 14:39:15.122 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-39-12 14:39:15.122 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-42-12 14:42:08.889 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-42-12 14:42:09.130 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-42-12 14:42:09.723 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-42-12 14:42:09.724 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-42-12 14:42:19.687 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-42-12 14:42:19.817 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-42-12 14:42:19.832 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-42-12 14:42:25.016 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-42-12 14:42:25.018 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-42-12 14:42:25.018 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-42-12 14:42:28.545 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-42-12 14:42:28.553 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-42-12 14:42:28.554 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-42-12 14:42:37.957 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-42-12 14:42:37.987 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-42-12 14:42:37.987 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-42-12 14:42:43.391 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-42-12 14:42:43.392 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-42-12 14:42:43.393 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-42-12 14:42:46.726 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-42-12 14:42:46.740 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-42-12 14:42:46.740 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-42-12 14:42:56.100 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-42-12 14:42:56.135 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-42-12 14:42:56.136 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-43-12 14:43:05.294 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-43-12 14:43:05.295 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-43-12 14:43:05.295 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-43-12 14:43:10.945 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-43-12 14:43:10.953 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-43-12 14:43:10.953 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-43-12 14:43:20.479 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-43-12 14:43:20.504 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-43-12 14:43:20.505 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-43-12 14:43:25.647 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-43-12 14:43:25.647 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-43-12 14:43:25.648 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-43-12 14:43:30.226 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-43-12 14:43:30.227 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-51-12 14:51:09.546 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-51-12 14:51:09.792 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-51-12 14:51:10.400 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-51-12 14:51:10.400 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-51-12 14:51:20.370 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-51-12 14:51:20.516 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-51-12 14:51:20.529 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-51-12 14:51:30.009 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-51-12 14:51:30.011 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-51-12 14:51:30.012 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-51-12 14:51:33.191 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-51-12 14:51:33.200 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-51-12 14:51:33.200 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-51-12 14:51:42.781 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-51-12 14:51:42.811 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-51-12 14:51:42.812 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-51-12 14:51:50.957 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-51-12 14:51:50.957 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-51-12 14:51:50.958 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-51-12 14:51:54.313 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-51-12 14:51:54.327 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-51-12 14:51:54.327 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-52-12 14:52:03.913 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-52-12 14:52:03.925 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-52-12 14:52:03.926 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-52-12 14:52:09.560 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-52-12 14:52:09.561 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-52-12 14:52:09.562 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-52-12 14:52:15.189 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-52-12 14:52:15.197 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-52-12 14:52:15.197 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-52-12 14:52:24.645 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-52-12 14:52:24.658 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-52-12 14:52:24.659 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-52-12 14:52:28.062 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-52-12 14:52:28.062 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-52-12 14:52:28.062 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-52-12 14:52:32.848 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-52-12 14:52:32.848 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-52-12 14:52:49.632 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-52-12 14:52:49.879 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-52-12 14:52:50.458 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-52-12 14:52:50.458 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-53-12 14:53:00.503 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-53-12 14:53:00.632 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-53-12 14:53:00.648 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-53-12 14:53:05.489 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-53-12 14:53:05.491 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-53-12 14:53:05.492 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-53-12 14:53:08.893 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-53-12 14:53:08.901 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-53-12 14:53:08.902 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-53-12 14:53:18.235 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-53-12 14:53:18.262 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-53-12 14:53:18.263 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-53-12 14:53:23.285 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-53-12 14:53:23.285 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-53-12 14:53:23.286 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-53-12 14:53:26.152 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-53-12 14:53:26.166 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-53-12 14:53:26.166 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-53-12 14:53:35.642 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-53-12 14:53:35.672 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-53-12 14:53:35.672 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-53-12 14:53:43.712 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-53-12 14:53:43.712 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-53-12 14:53:43.713 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-53-12 14:53:48.832 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-53-12 14:53:48.843 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-53-12 14:53:48.843 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-53-12 14:53:58.299 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-53-12 14:53:58.418 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-53-12 14:53:58.419 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-54-12 14:54:04.251 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-54-12 14:54:04.251 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-54-12 14:54:04.252 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-54-12 14:54:08.570 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-54-12 14:54:08.571 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-54-12 14:54:33.966 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-54-12 14:54:34.216 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-54-12 14:54:34.819 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-54-12 14:54:34.820 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-54-12 14:54:44.757 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-54-12 14:54:44.902 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-54-12 14:54:44.915 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-54-12 14:54:49.963 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-54-12 14:54:49.966 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-54-12 14:54:49.966 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-54-12 14:54:52.835 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-54-12 14:54:52.843 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-54-12 14:54:52.844 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-55-12 14:55:02.283 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-55-12 14:55:02.311 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-55-12 14:55:02.311 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-55-12 14:55:07.944 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-55-12 14:55:07.944 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-55-12 14:55:07.945 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-55-12 14:55:11.802 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-55-12 14:55:11.816 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-55-12 14:55:11.817 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-55-12 14:55:21.254 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-55-12 14:55:21.272 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-55-12 14:55:21.273 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-55-12 14:55:26.872 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-55-12 14:55:26.873 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-55-12 14:55:26.873 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-55-12 14:55:32.438 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-55-12 14:55:32.446 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-55-12 14:55:32.446 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-55-12 14:55:41.789 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-55-12 14:55:41.864 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-55-12 14:55:41.864 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-55-12 14:55:47.047 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-55-12 14:55:47.048 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-55-12 14:55:47.048 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-55-12 14:55:51.854 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-55-12 14:55:51.855 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-05-12 15:05:48.337 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-05-12 15:05:48.587 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-05-12 15:05:51.531 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-05-12 15:05:51.531 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-06-12 15:06:01.570 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-06-12 15:06:01.742 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-06-12 15:06:01.759 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-06-12 15:06:06.709 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-06-12 15:06:06.710 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-06-12 15:06:06.711 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-06-12 15:06:09.785 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-06-12 15:06:09.792 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-06-12 15:06:09.793 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-06-12 15:06:19.120 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-06-12 15:06:19.141 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-06-12 15:06:19.142 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-06-12 15:06:24.628 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-06-12 15:06:24.629 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-06-12 15:06:24.629 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-06-12 15:06:27.516 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-06-12 15:06:27.528 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-06-12 15:06:27.528 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-06-12 15:06:37.008 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-06-12 15:06:37.032 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-06-12 15:06:37.033 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-06-12 15:06:45.688 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-06-12 15:06:45.688 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-06-12 15:06:45.689 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-06-12 15:06:51.922 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-06-12 15:06:51.930 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-06-12 15:06:51.931 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-07-12 15:07:01.406 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-07-12 15:07:01.422 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-07-12 15:07:01.422 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-07-12 15:07:07.279 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-07-12 15:07:07.279 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-07-12 15:07:07.280 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-07-12 15:07:12.087 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-07-12 15:07:12.089 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-36-12 16:36:31.071 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-36-12 16:36:31.368 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-36-12 16:36:34.321 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-36-12 16:36:34.322 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-36-12 16:36:46.049 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-36-12 16:36:48.677 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-36-12 16:36:48.890 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-36-12 16:36:57.248 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-36-12 16:36:57.249 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-36-12 16:36:57.250 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-37-12 16:37:01.720 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-37-12 16:37:01.773 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-37-12 16:37:01.774 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-37-12 16:37:11.377 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-37-12 16:37:11.404 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-37-12 16:37:11.405 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-37-12 16:37:17.203 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-37-12 16:37:17.203 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-37-12 16:37:17.203 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-37-12 16:37:20.615 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-37-12 16:37:20.626 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-37-12 16:37:20.626 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-37-12 16:37:30.077 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-37-12 16:37:30.110 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-37-12 16:37:30.111 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-37-12 16:37:36.184 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-37-12 16:37:36.185 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-37-12 16:37:36.185 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-37-12 16:37:42.291 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-37-12 16:37:42.300 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-37-12 16:37:42.300 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-37-12 16:37:51.861 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-37-12 16:37:51.884 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-37-12 16:37:51.884 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-37-12 16:37:59.939 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-37-12 16:37:59.939 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-37-12 16:37:59.939 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-38-12 16:38:04.949 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-38-12 16:38:04.950 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-40-12 16:40:10.857 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2020-40-12 16:40:11.102 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-40-12 16:40:11.696 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-40-12 16:40:11.697 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-40-12 16:40:21.900 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-40-12 16:40:22.039 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-40-12 16:40:22.053 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-40-12 16:40:27.513 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-40-12 16:40:27.514 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-40-12 16:40:27.515 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-40-12 16:40:30.950 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-40-12 16:40:30.959 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-40-12 16:40:30.959 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-40-12 16:40:40.369 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-40-12 16:40:40.398 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-40-12 16:40:40.399 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-40-12 16:40:46.713 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-40-12 16:40:46.713 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-40-12 16:40:46.713 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-40-12 16:40:49.493 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-40-12 16:40:49.510 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-40-12 16:40:49.510 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-40-12 16:40:59.050 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-40-12 16:40:59.062 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-40-12 16:40:59.063 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-41-12 16:41:04.663 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-41-12 16:41:04.663 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-41-12 16:41:04.663 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-41-12 16:41:10.252 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2020-41-12 16:41:10.260 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2020-41-12 16:41:10.260 [pool-2-thread-1] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2020-41-12 16:41:19.657 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2020-41-12 16:41:19.670 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-41-12 16:41:19.670 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2020-41-12 16:41:24.228 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Login Successfull
+2020-41-12 16:41:24.228 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-41-12 16:41:24.229 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing home Page Objects
+2020-41-12 16:41:29.087 [pool-2-thread-1] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2020-41-12 16:41:29.089 [pool-2-thread-1] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2021-36-04 18:36:46.195 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting WebDriver Settings
+2021-36-04 18:36:46.581 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Found Chrome as Browser
+2021-36-04 18:36:59.993 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2021-36-04 18:36:59.994 [main] INFO  com.fashion_dx.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2021-37-04 18:37:09.832 [main] INFO  com.fashion_dx.qa.pages.PageCollection - Initialized Page Collection Class
+2021-37-04 18:37:10.377 [main] INFO  com.fashion_dx.qa.base.BasePage - Initialized Base Page Class
+2021-37-04 18:37:10.420 [main] INFO  com.fashion_dx.qa.pages.LoginPage - Initializing login Page Objects
+2021-09-04 20:09:04.726 [main] INFO  com.databroker.qa.uitests.BaseTest - Getting WebDriver Settings
+2021-09-04 20:09:05.036 [main] INFO  com.databroker.qa.uitests.BaseTest - Found Chrome as Browser
+2021-09-04 20:09:08.207 [main] INFO  com.databroker.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2021-09-04 20:09:08.208 [main] INFO  com.databroker.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2021-09-04 20:09:33.233 [main] INFO  com.databroker.qa.pages.PageCollection - Initialized Page Collection Class
+2021-09-04 20:09:34.209 [main] INFO  com.databroker.qa.base.BasePage - Initialized Base Page Class
+2021-09-04 20:09:34.245 [main] INFO  com.databroker.qa.pages.RegistrationPage - Initializing home Page Objects
+2021-09-04 20:09:48.779 [main] INFO  com.databroker.qa.base.BasePage - Initialized Base Page Class
+2021-09-04 20:09:48.780 [main] INFO  com.databroker.qa.pages.RegistrationPage - Initializing login Page Objects
+2021-09-04 20:09:49.804 [main] INFO  com.databroker.qa.pages.RegistrationPage - First Name Enterd successfully
+2021-09-04 20:09:50.070 [main] INFO  com.databroker.qa.pages.RegistrationPage - Last Name Enterd successfully
+2021-09-04 20:09:50.404 [main] INFO  com.databroker.qa.pages.RegistrationPage - Email Enterd Successfull
+2021-09-04 20:09:50.766 [main] INFO  com.databroker.qa.pages.RegistrationPage - Company Name Enterd successfully
+2021-09-04 20:09:51.318 [main] INFO  com.databroker.qa.pages.RegistrationPage - Industory Selected successfully
+2021-09-04 20:09:51.754 [main] INFO  com.databroker.qa.pages.RegistrationPage - Role Selected successfully
+2021-09-04 20:09:52.365 [main] INFO  com.databroker.qa.pages.RegistrationPage - Password values entedrd successfully
+2021-16-04 20:16:16.499 [main] INFO  com.databroker.qa.uitests.BaseTest - Getting WebDriver Settings
+2021-16-04 20:16:16.721 [main] INFO  com.databroker.qa.uitests.BaseTest - Found Chrome as Browser
+2021-16-04 20:16:16.978 [main] INFO  com.databroker.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2021-16-04 20:16:16.979 [main] INFO  com.databroker.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2021-16-04 20:16:23.857 [main] INFO  com.databroker.qa.pages.PageCollection - Initialized Page Collection Class
+2021-16-04 20:16:24.162 [main] INFO  com.databroker.qa.base.BasePage - Initialized Base Page Class
+2021-16-04 20:16:24.170 [main] INFO  com.databroker.qa.pages.RegistrationPage - Initializing home Page Objects
+2021-16-04 20:16:44.704 [main] INFO  com.databroker.qa.base.BasePage - Initialized Base Page Class
+2021-16-04 20:16:44.704 [main] INFO  com.databroker.qa.pages.RegistrationPage - Initializing login Page Objects
+2021-16-04 20:16:45.903 [main] INFO  com.databroker.qa.pages.RegistrationPage - First Name Enterd successfully
+2021-16-04 20:16:46.186 [main] INFO  com.databroker.qa.pages.RegistrationPage - Last Name Enterd successfully
+2021-16-04 20:16:46.474 [main] INFO  com.databroker.qa.pages.RegistrationPage - Email Enterd Successfull
+2021-16-04 20:16:46.810 [main] INFO  com.databroker.qa.pages.RegistrationPage - Company Name Enterd successfully
+2021-16-04 20:16:47.751 [main] INFO  com.databroker.qa.pages.RegistrationPage - Industory Selected successfully
+2021-16-04 20:16:48.331 [main] INFO  com.databroker.qa.pages.RegistrationPage - Role Selected successfully
+2021-16-04 20:16:49.040 [main] INFO  com.databroker.qa.pages.RegistrationPage - Password values entedrd successfully
+2021-16-04 20:16:52.294 [main] INFO  com.databroker.qa.pages.RegistrationPage - Terms and conditions accept successfully
+2021-16-04 20:16:52.524 [main] INFO  com.databroker.qa.pages.RegistrationPage - Getting captcha values successfully
+2021-21-04 20:21:23.402 [main] INFO  com.databroker.qa.uitests.BaseTest - Getting WebDriver Settings
+2021-21-04 20:21:23.646 [main] INFO  com.databroker.qa.uitests.BaseTest - Found Chrome as Browser
+2021-21-04 20:21:23.842 [main] INFO  com.databroker.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2021-21-04 20:21:23.843 [main] INFO  com.databroker.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2021-21-04 20:21:30.736 [main] INFO  com.databroker.qa.pages.PageCollection - Initialized Page Collection Class
+2021-21-04 20:21:31.025 [main] INFO  com.databroker.qa.base.BasePage - Initialized Base Page Class
+2021-21-04 20:21:31.030 [main] INFO  com.databroker.qa.pages.RegistrationPage - Initializing home Page Objects
+2021-21-04 20:21:48.754 [main] INFO  com.databroker.qa.base.BasePage - Initialized Base Page Class
+2021-21-04 20:21:48.755 [main] INFO  com.databroker.qa.pages.RegistrationPage - Initializing login Page Objects
+2021-21-04 20:21:49.121 [main] INFO  com.databroker.qa.pages.RegistrationPage - First Name Enterd successfully
+2021-21-04 20:21:49.422 [main] INFO  com.databroker.qa.pages.RegistrationPage - Last Name Enterd successfully
+2021-21-04 20:21:49.749 [main] INFO  com.databroker.qa.pages.RegistrationPage - Email Enterd Successfull
+2021-21-04 20:21:50.070 [main] INFO  com.databroker.qa.pages.RegistrationPage - Company Name Enterd successfully
+2021-21-04 20:21:50.822 [main] INFO  com.databroker.qa.pages.RegistrationPage - Industory Selected successfully
+2021-21-04 20:21:51.264 [main] INFO  com.databroker.qa.pages.RegistrationPage - Role Selected successfully
+2021-21-04 20:21:52.123 [main] INFO  com.databroker.qa.pages.RegistrationPage - Password values entedrd successfully
+2021-21-04 20:21:55.428 [main] INFO  com.databroker.qa.pages.RegistrationPage - Terms and conditions accept successfully
+2021-21-04 20:21:55.645 [main] INFO  com.databroker.qa.pages.RegistrationPage - Getting captcha values successfully
+2021-44-04 20:44:12.517 [main] INFO  com.databroker.qa.uitests.BaseTest - Getting WebDriver Settings
+2021-44-04 20:44:13.275 [main] INFO  com.databroker.qa.uitests.BaseTest - Found Chrome as Browser
+2021-44-04 20:44:13.454 [main] INFO  com.databroker.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2021-44-04 20:44:13.454 [main] INFO  com.databroker.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2021-44-04 20:44:30.610 [main] INFO  com.databroker.qa.pages.PageCollection - Initialized Page Collection Class
+2021-44-04 20:44:32.382 [main] INFO  com.databroker.qa.base.BasePage - Initialized Base Page Class
+2021-44-04 20:44:32.451 [main] INFO  com.databroker.qa.pages.RegistrationPage - Initializing home Page Objects
+2021-44-04 20:44:46.012 [main] INFO  com.databroker.qa.base.BasePage - Initialized Base Page Class
+2021-44-04 20:44:46.013 [main] INFO  com.databroker.qa.pages.RegistrationPage - Initializing login Page Objects
+2021-44-04 20:44:46.737 [main] INFO  com.databroker.qa.pages.RegistrationPage - First Name Enterd successfully
+2021-44-04 20:44:47.042 [main] INFO  com.databroker.qa.pages.RegistrationPage - Last Name Enterd successfully
+2021-44-04 20:44:47.376 [main] INFO  com.databroker.qa.pages.RegistrationPage - Email Enterd Successfull
+2021-44-04 20:44:47.655 [main] INFO  com.databroker.qa.pages.RegistrationPage - Company Name Enterd successfully
+2021-44-04 20:44:48.189 [main] INFO  com.databroker.qa.pages.RegistrationPage - Industory Selected successfully
+2021-44-04 20:44:48.636 [main] INFO  com.databroker.qa.pages.RegistrationPage - Role Selected successfully
+2021-44-04 20:44:49.262 [main] INFO  com.databroker.qa.pages.RegistrationPage - Password values entedrd successfully
+2021-44-04 20:44:52.590 [main] INFO  com.databroker.qa.pages.RegistrationPage - Terms and conditions accept successfully
+2021-44-04 20:44:52.797 [main] INFO  com.databroker.qa.pages.RegistrationPage - Getting captcha values successfully
+2021-54-04 20:54:41.209 [main] INFO  com.databroker.qa.uitests.BaseTest - Getting WebDriver Settings
+2021-54-04 20:54:41.455 [main] INFO  com.databroker.qa.uitests.BaseTest - Found Chrome as Browser
+2021-54-04 20:54:41.688 [main] INFO  com.databroker.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2021-54-04 20:54:41.688 [main] INFO  com.databroker.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2021-54-04 20:54:59.975 [main] INFO  com.databroker.qa.pages.PageCollection - Initialized Page Collection Class
+2021-55-04 20:55:01.763 [main] INFO  com.databroker.qa.base.BasePage - Initialized Base Page Class
+2021-55-04 20:55:01.833 [main] INFO  com.databroker.qa.pages.RegistrationPage - Initializing home Page Objects
+2021-55-04 20:55:19.818 [main] INFO  com.databroker.qa.base.BasePage - Initialized Base Page Class
+2021-55-04 20:55:19.819 [main] INFO  com.databroker.qa.pages.RegistrationPage - Initializing login Page Objects
+2021-55-04 20:55:21.990 [main] INFO  com.databroker.qa.pages.RegistrationPage - First Name Enterd successfully
+2021-55-04 20:55:22.264 [main] INFO  com.databroker.qa.pages.RegistrationPage - Last Name Enterd successfully
+2021-55-04 20:55:22.589 [main] INFO  com.databroker.qa.pages.RegistrationPage - Email Enterd Successfull
+2021-55-04 20:55:22.856 [main] INFO  com.databroker.qa.pages.RegistrationPage - Company Name Enterd successfully
+2021-55-04 20:55:23.366 [main] INFO  com.databroker.qa.pages.RegistrationPage - Industory Selected successfully
+2021-55-04 20:55:23.787 [main] INFO  com.databroker.qa.pages.RegistrationPage - Role Selected successfully
+2021-55-04 20:55:24.301 [main] INFO  com.databroker.qa.pages.RegistrationPage - Password values entedrd successfully
+2021-55-04 20:55:27.634 [main] INFO  com.databroker.qa.pages.RegistrationPage - Terms and conditions accept successfully
+2021-55-04 20:55:28.147 [main] INFO  com.databroker.qa.pages.RegistrationPage - Getting captcha values successfully
+2021-56-04 20:56:48.443 [main] INFO  com.databroker.qa.uitests.BaseTest - Getting WebDriver Settings
+2021-56-04 20:56:48.687 [main] INFO  com.databroker.qa.uitests.BaseTest - Found Chrome as Browser
+2021-56-04 20:56:48.950 [main] INFO  com.databroker.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2021-56-04 20:56:48.950 [main] INFO  com.databroker.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2021-57-04 20:57:03.085 [main] INFO  com.databroker.qa.pages.PageCollection - Initialized Page Collection Class
+2021-57-04 20:57:04.371 [main] INFO  com.databroker.qa.base.BasePage - Initialized Base Page Class
+2021-57-04 20:57:04.387 [main] INFO  com.databroker.qa.pages.RegistrationPage - Initializing home Page Objects
+2021-57-04 20:57:17.076 [main] INFO  com.databroker.qa.base.BasePage - Initialized Base Page Class
+2021-57-04 20:57:17.077 [main] INFO  com.databroker.qa.pages.RegistrationPage - Initializing login Page Objects
+2021-57-04 20:57:18.452 [main] INFO  com.databroker.qa.pages.RegistrationPage - First Name Enterd successfully
+2021-57-04 20:57:18.725 [main] INFO  com.databroker.qa.pages.RegistrationPage - Last Name Enterd successfully
+2021-57-04 20:57:19.033 [main] INFO  com.databroker.qa.pages.RegistrationPage - Email Enterd Successfull
+2021-57-04 20:57:19.326 [main] INFO  com.databroker.qa.pages.RegistrationPage - Company Name Enterd successfully
+2021-57-04 20:57:19.973 [main] INFO  com.databroker.qa.pages.RegistrationPage - Industory Selected successfully
+2021-57-04 20:57:20.423 [main] INFO  com.databroker.qa.pages.RegistrationPage - Role Selected successfully
+2021-57-04 20:57:21.151 [main] INFO  com.databroker.qa.pages.RegistrationPage - Password values entedrd successfully
+2021-57-04 20:57:24.508 [main] INFO  com.databroker.qa.pages.RegistrationPage - Terms and conditions accept successfully
+2021-57-04 20:57:24.704 [main] INFO  com.databroker.qa.pages.RegistrationPage - Getting captcha values successfully
+2021-11-04 21:11:05.345 [main] INFO  com.databroker.qa.uitests.BaseTest - Getting WebDriver Settings
+2021-11-04 21:11:05.574 [main] INFO  com.databroker.qa.uitests.BaseTest - Found Chrome as Browser
+2021-11-04 21:11:08.951 [main] INFO  com.databroker.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2021-11-04 21:11:08.951 [main] INFO  com.databroker.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2021-11-04 21:11:15.359 [main] INFO  com.databroker.qa.pages.PageCollection - Initialized Page Collection Class
+2021-11-04 21:11:15.516 [main] INFO  com.databroker.qa.base.BasePage - Initialized Base Page Class
+2021-11-04 21:11:15.522 [main] INFO  com.databroker.qa.pages.RegistrationPage - Initializing home Page Objects
+2021-11-04 21:11:28.344 [main] INFO  com.databroker.qa.base.BasePage - Initialized Base Page Class
+2021-11-04 21:11:28.345 [main] INFO  com.databroker.qa.pages.RegistrationPage - Initializing login Page Objects
+2021-11-04 21:11:28.605 [main] INFO  com.databroker.qa.pages.RegistrationPage - First Name Enterd successfully
+2021-11-04 21:11:28.881 [main] INFO  com.databroker.qa.pages.RegistrationPage - Last Name Enterd successfully
+2021-11-04 21:11:29.203 [main] INFO  com.databroker.qa.pages.RegistrationPage - Email Enterd Successfull
+2021-11-04 21:11:29.543 [main] INFO  com.databroker.qa.pages.RegistrationPage - Company Name Enterd successfully
+2021-11-04 21:11:30.077 [main] INFO  com.databroker.qa.pages.RegistrationPage - Industory Selected successfully
+2021-11-04 21:11:30.489 [main] INFO  com.databroker.qa.pages.RegistrationPage - Role Selected successfully
+2021-11-04 21:11:31.061 [main] INFO  com.databroker.qa.pages.RegistrationPage - Password values entedrd successfully
+2021-11-04 21:11:34.254 [main] INFO  com.databroker.qa.pages.RegistrationPage - Terms and conditions accept successfully
+2021-11-04 21:11:34.839 [main] INFO  com.databroker.qa.pages.RegistrationPage - Captcha answer entered successfully
+2021-11-04 21:11:38.506 [main] INFO  com.databroker.qa.pages.RegistrationPage - Create account button clicked successfully
+2021-12-04 21:12:24.705 [main] INFO  com.databroker.qa.uitests.BaseTest - Getting WebDriver Settings
+2021-12-04 21:12:24.943 [main] INFO  com.databroker.qa.uitests.BaseTest - Found Chrome as Browser
+2021-12-04 21:12:25.142 [main] INFO  com.databroker.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2021-12-04 21:12:25.142 [main] INFO  com.databroker.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2021-12-04 21:12:32.900 [main] INFO  com.databroker.qa.pages.PageCollection - Initialized Page Collection Class
+2021-12-04 21:12:33.180 [main] INFO  com.databroker.qa.base.BasePage - Initialized Base Page Class
+2021-12-04 21:12:33.185 [main] INFO  com.databroker.qa.pages.RegistrationPage - Initializing home Page Objects
+2021-12-04 21:12:43.461 [main] INFO  com.databroker.qa.base.BasePage - Initialized Base Page Class
+2021-12-04 21:12:43.462 [main] INFO  com.databroker.qa.pages.RegistrationPage - Initializing login Page Objects
+2021-12-04 21:12:43.708 [main] INFO  com.databroker.qa.pages.RegistrationPage - First Name Enterd successfully
+2021-12-04 21:12:44.052 [main] INFO  com.databroker.qa.pages.RegistrationPage - Last Name Enterd successfully
+2021-12-04 21:12:44.352 [main] INFO  com.databroker.qa.pages.RegistrationPage - Email Enterd Successfull
+2021-12-04 21:12:44.634 [main] INFO  com.databroker.qa.pages.RegistrationPage - Company Name Enterd successfully
+2021-12-04 21:12:45.151 [main] INFO  com.databroker.qa.pages.RegistrationPage - Industory Selected successfully
+2021-12-04 21:12:45.552 [main] INFO  com.databroker.qa.pages.RegistrationPage - Role Selected successfully
+2021-12-04 21:12:46.169 [main] INFO  com.databroker.qa.pages.RegistrationPage - Password values entedrd successfully
+2021-12-04 21:12:49.400 [main] INFO  com.databroker.qa.pages.RegistrationPage - Terms and conditions accept successfully
+2021-12-04 21:12:49.783 [main] INFO  com.databroker.qa.pages.RegistrationPage - Captcha answer entered successfully
+2021-12-04 21:12:54.321 [main] INFO  com.databroker.qa.pages.RegistrationPage - Create account button clicked successfully
+2021-20-04 21:20:17.371 [main] INFO  com.databroker.qa.uitests.BaseTest - Getting WebDriver Settings
+2021-20-04 21:20:17.715 [main] INFO  com.databroker.qa.uitests.BaseTest - Found Chrome as Browser
+2021-20-04 21:20:17.967 [main] INFO  com.databroker.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2021-20-04 21:20:17.968 [main] INFO  com.databroker.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2021-20-04 21:20:25.403 [main] INFO  com.databroker.qa.pages.PageCollection - Initialized Page Collection Class
+2021-20-04 21:20:25.686 [main] INFO  com.databroker.qa.base.BasePage - Initialized Base Page Class
+2021-20-04 21:20:25.691 [main] INFO  com.databroker.qa.pages.RegistrationPage - Initializing home Page Objects
+2021-20-04 21:20:35.239 [main] INFO  com.databroker.qa.base.BasePage - Initialized Base Page Class
+2021-20-04 21:20:35.240 [main] INFO  com.databroker.qa.pages.RegistrationPage - Initializing login Page Objects
+2021-20-04 21:20:35.516 [main] INFO  com.databroker.qa.pages.RegistrationPage - First Name Enterd successfully
+2021-20-04 21:20:35.839 [main] INFO  com.databroker.qa.pages.RegistrationPage - Last Name Enterd successfully
+2021-20-04 21:20:36.202 [main] INFO  com.databroker.qa.pages.RegistrationPage - Email Enterd Successfull
+2021-20-04 21:20:36.572 [main] INFO  com.databroker.qa.pages.RegistrationPage - Company Name Enterd successfully
+2021-20-04 21:20:37.108 [main] INFO  com.databroker.qa.pages.RegistrationPage - Industory Selected successfully
+2021-20-04 21:20:37.501 [main] INFO  com.databroker.qa.pages.RegistrationPage - Role Selected successfully
+2021-20-04 21:20:38.077 [main] INFO  com.databroker.qa.pages.RegistrationPage - Password values entedrd successfully
+2021-20-04 21:20:41.344 [main] INFO  com.databroker.qa.pages.RegistrationPage - Terms and conditions accept successfully
+2021-20-04 21:20:41.775 [main] INFO  com.databroker.qa.pages.RegistrationPage - Captcha answer entered successfully
+2021-20-04 21:20:45.415 [main] INFO  com.databroker.qa.pages.RegistrationPage - Create account button clicked successfully
+2021-27-05 10:27:33.211 [main] INFO  com.databroker.qa.uitests.BaseTest - Getting WebDriver Settings
+2021-27-05 10:27:33.509 [pool-2-thread-1] INFO  com.databroker.qa.uitests.BaseTest - Found Chrome as Browser
+2021-27-05 10:27:39.298 [pool-2-thread-1] INFO  com.databroker.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2021-27-05 10:27:39.298 [pool-2-thread-1] INFO  com.databroker.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2021-27-05 10:27:55.295 [pool-2-thread-1] INFO  com.databroker.qa.pages.PageCollection - Initialized Page Collection Class
+2021-27-05 10:27:56.323 [pool-2-thread-1] INFO  com.databroker.qa.base.BasePage - Initialized Base Page Class
+2021-27-05 10:27:56.349 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Initializing home Page Objects
+2021-28-05 10:28:34.246 [pool-2-thread-1] INFO  com.databroker.qa.base.BasePage - Initialized Base Page Class
+2021-28-05 10:28:34.247 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Initializing login Page Objects
+2021-28-05 10:28:34.820 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - First Name Enterd successfully
+2021-28-05 10:28:35.116 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Last Name Enterd successfully
+2021-28-05 10:28:35.452 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Email Enterd Successfull
+2021-28-05 10:28:35.787 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Company Name Enterd successfully
+2021-28-05 10:28:36.322 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Industory Selected successfully
+2021-28-05 10:28:36.701 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Role Selected successfully
+2021-28-05 10:28:37.237 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Password values entedrd successfully
+2021-28-05 10:28:40.473 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Terms and conditions accept successfully
+2021-28-05 10:28:40.866 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Captcha answer entered successfully
+2021-28-05 10:28:45.273 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Create account button clicked successfully
+2021-33-05 10:33:23.904 [main] INFO  com.databroker.qa.uitests.BaseTest - Getting WebDriver Settings
+2021-33-05 10:33:24.170 [pool-2-thread-1] INFO  com.databroker.qa.uitests.BaseTest - Found Chrome as Browser
+2021-33-05 10:33:24.568 [pool-2-thread-1] INFO  com.databroker.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2021-33-05 10:33:24.569 [pool-2-thread-1] INFO  com.databroker.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2021-33-05 10:33:31.422 [pool-2-thread-1] INFO  com.databroker.qa.pages.PageCollection - Initialized Page Collection Class
+2021-33-05 10:33:31.597 [pool-2-thread-1] INFO  com.databroker.qa.base.BasePage - Initialized Base Page Class
+2021-33-05 10:33:31.602 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Initializing home Page Objects
+2021-33-05 10:33:59.597 [pool-2-thread-1] INFO  com.databroker.qa.base.BasePage - Initialized Base Page Class
+2021-33-05 10:33:59.597 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Initializing login Page Objects
+2021-33-05 10:33:59.853 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - First Name Enterd successfully
+2021-34-05 10:34:00.122 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Last Name Enterd successfully
+2021-34-05 10:34:00.447 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Email Enterd Successfull
+2021-34-05 10:34:00.751 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Company Name Enterd successfully
+2021-34-05 10:34:01.280 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Industory Selected successfully
+2021-34-05 10:34:01.868 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Role Selected successfully
+2021-34-05 10:34:02.641 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Password values entedrd successfully
+2021-34-05 10:34:06.047 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Terms and conditions accept successfully
+2021-34-05 10:34:06.583 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Captcha answer entered successfully
+2021-34-05 10:34:10.587 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Create account button clicked successfully
+2021-43-05 10:43:30.417 [main] INFO  com.databroker.qa.uitests.BaseTest - Getting WebDriver Settings
+2021-43-05 10:43:30.685 [pool-2-thread-1] INFO  com.databroker.qa.uitests.BaseTest - Found Chrome as Browser
+2021-43-05 10:43:31.092 [pool-2-thread-1] INFO  com.databroker.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2021-43-05 10:43:31.092 [pool-2-thread-1] INFO  com.databroker.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2021-43-05 10:43:37.149 [pool-2-thread-1] INFO  com.databroker.qa.pages.PageCollection - Initialized Page Collection Class
+2021-43-05 10:43:37.311 [pool-2-thread-1] INFO  com.databroker.qa.base.BasePage - Initialized Base Page Class
+2021-43-05 10:43:37.316 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Initializing home Page Objects
+2021-43-05 10:43:45.617 [pool-2-thread-1] INFO  com.databroker.qa.base.BasePage - Initialized Base Page Class
+2021-43-05 10:43:45.618 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Initializing login Page Objects
+2021-43-05 10:43:45.881 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - First Name Enterd successfully
+2021-43-05 10:43:46.175 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Last Name Enterd successfully
+2021-43-05 10:43:46.495 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Email Enterd Successfull
+2021-43-05 10:43:46.787 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Company Name Enterd successfully
+2021-43-05 10:43:47.305 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Industory Selected successfully
+2021-43-05 10:43:47.696 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Role Selected successfully
+2021-43-05 10:43:48.318 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Password values entedrd successfully
+2021-43-05 10:43:51.598 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Terms and conditions accept successfully
+2021-43-05 10:43:51.944 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Captcha answer entered successfully
+2021-43-05 10:43:55.497 [pool-2-thread-1] INFO  com.databroker.qa.pages.RegistrationPage - Create account button clicked successfully
+2021-35-01 09:35:42.980 [main] INFO  com.github.qa.uitests.BaseTest - Getting WebDriver Settings
+2021-35-01 09:35:44.548 [main] INFO  com.github.qa.uitests.BaseTest - Found Chrome as Browser
+2021-36-01 09:36:00.441 [main] INFO  com.github.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2021-36-01 09:36:00.441 [main] INFO  com.github.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2021-36-01 09:36:29.922 [main] INFO  com.github.qa.uitests.BaseTest - unable to create chromedriver
+2021-36-01 09:36:29.928 [main] INFO  com.github.qa.pages.PageCollection - Initialized Page Collection Class
+2021-36-01 09:36:31.696 [main] INFO  com.github.qa.base.BasePage - Initialized Base Page Class
+2021-40-01 09:40:29.929 [main] INFO  com.github.qa.uitests.BaseTest - Getting WebDriver Settings
+2021-40-01 09:40:31.018 [main] INFO  com.github.qa.uitests.BaseTest - Found Chrome as Browser
+2021-40-01 09:40:31.398 [main] INFO  com.github.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2021-40-01 09:40:31.399 [main] INFO  com.github.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2021-40-01 09:40:36.275 [main] INFO  com.github.qa.pages.PageCollection - Initialized Page Collection Class
+2021-40-01 09:40:36.899 [main] INFO  com.github.qa.base.BasePage - Initialized Base Page Class
+2021-40-01 09:40:36.929 [main] INFO  com.github.qa.pages.LandingPage - Initializing landing Page Objects
+2021-41-01 09:41:40.039 [main] INFO  com.github.qa.uitests.BaseTest - Getting WebDriver Settings
+2021-41-01 09:41:40.520 [main] INFO  com.github.qa.uitests.BaseTest - Found Chrome as Browser
+2021-41-01 09:41:40.781 [main] INFO  com.github.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2021-41-01 09:41:40.782 [main] INFO  com.github.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2021-41-01 09:41:44.847 [main] INFO  com.github.qa.pages.PageCollection - Initialized Page Collection Class
+2021-41-01 09:41:45.149 [main] INFO  com.github.qa.base.BasePage - Initialized Base Page Class
+2021-41-01 09:41:45.157 [main] INFO  com.github.qa.pages.LandingPage - Initializing landing Page Objects
+2021-46-01 09:46:08.238 [main] INFO  com.github.qa.uitests.BaseTest - Getting WebDriver Settings
+2021-46-01 09:46:09.041 [main] INFO  com.github.qa.uitests.BaseTest - Found Chrome as Browser
+2021-46-01 09:46:09.619 [main] INFO  com.github.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2021-46-01 09:46:09.620 [main] INFO  com.github.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2021-46-01 09:46:13.238 [main] INFO  com.github.qa.pages.PageCollection - Initialized Page Collection Class
+2021-46-01 09:46:13.716 [main] INFO  com.github.qa.base.BasePage - Initialized Base Page Class
+2021-46-01 09:46:13.729 [main] INFO  com.github.qa.pages.LandingPage - Initializing landing Page Objects
+2021-46-01 09:46:35.921 [main] INFO  com.github.qa.base.BasePage - Initialized Base Page Class
+2021-46-01 09:46:35.922 [main] INFO  com.github.qa.pages.LoginPage - Initializing landing Page Objects
+2021-49-01 09:49:10.265 [main] INFO  com.github.qa.uitests.BaseTest - Getting WebDriver Settings
+2021-49-01 09:49:11.141 [main] INFO  com.github.qa.uitests.BaseTest - Found Chrome as Browser
+2021-49-01 09:49:11.411 [main] INFO  com.github.qa.uitests.BaseTest - Getting Chromedriver exe from resources
+2021-49-01 09:49:11.412 [main] INFO  com.github.qa.uitests.BaseTest - Launching Chrome and Maximizing it
+2021-49-01 09:49:15.315 [main] INFO  com.github.qa.pages.PageCollection - Initialized Page Collection Class
+2021-49-01 09:49:15.810 [main] INFO  com.github.qa.base.BasePage - Initialized Base Page Class
+2021-49-01 09:49:15.818 [main] INFO  com.github.qa.pages.LandingPage - Initializing landing Page Objects
+2021-49-01 09:49:34.023 [main] INFO  com.github.qa.base.BasePage - Initialized Base Page Class
+2021-49-01 09:49:34.023 [main] INFO  com.github.qa.pages.LoginPage - Initializing landing Page Objects
+2021-49-01 09:49:48.947 [main] INFO  com.github.qa.base.BasePage - Initialized Base Page Class
+2021-49-01 09:49:48.948 [main] INFO  com.github.qa.pages.PasswordResetPage - Initializing landing Page Objects
+2021-50-01 09:50:02.149 [main] INFO  com.github.qa.base.BasePage - Initialized Base Page Class
+2021-50-01 09:50:02.150 [main] INFO  com.github.qa.pages.JoinGitHubPage - Initializing join github Page Objects
